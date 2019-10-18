@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="239388" started-at="2019-10-18T07:15:07Z" finished-at="2019-10-18T07:19:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="239388" started-at="2019-10-18T07:15:07Z" finished-at="2019-10-18T07:19:06Z">
+      <class name="com.novopay.Corporate.ui.CreateCorpPageTest">
+        <test-method status="PASS" signature="corpPageTest()[pri:0, instance:com.novopay.Corporate.ui.CreateCorpPageTest@7b9a4292]" name="corpPageTest" duration-ms="239371" started-at="2019-10-18T12:45:07Z" finished-at="2019-10-18T12:49:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- corpPageTest -->
+      </class> <!-- com.novopay.Corporate.ui.CreateCorpPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
